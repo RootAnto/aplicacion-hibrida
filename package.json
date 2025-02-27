@@ -27,7 +27,6 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^1.7.9",
-    "electron-squirrel-startup": "^1.0.1",
-    "proyectout9": "file:"
+    "electron-squirrel-startup": "^1.0.1"
   }
 }
